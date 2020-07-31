@@ -1,1 +1,2 @@
-# Juego-de-piedra-papel-o-tijera
+#created by Edward
+#Juego-de-piedra-papel-o-tijera
